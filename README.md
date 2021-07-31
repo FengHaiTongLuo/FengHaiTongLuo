@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @FengHaiTongLuo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-FengHaiTongLuo/FengHaiTongLuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+公众号：风海铜锣/风海铜锣技术君
+CSDN：风海铜锣
+掘金：风海铜锣
+LeetCode：风海铜锣
