@@ -1,4 +1,4 @@
-风海铜锣，程序员一枚。
+风海铜锣，热爱分享的程序员一枚。
 
 [我的LeetCode](https://leetcode-cn.com/u/fenghaitongluo/) <br/>
 [我的CSDN](https://blog.csdn.net/madaxin?spm=1001.2101.3001.5343)<br/>
